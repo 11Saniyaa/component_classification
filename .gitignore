@@ -1,0 +1,7 @@
+.venv/
+data/
+pcb_run/
+pcb_data/
+__pycache__/
+*.pt
+*.zip
